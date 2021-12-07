@@ -417,7 +417,7 @@
               const noel_sources = ["https://i.postimg.cc/cH5WHhHM/Candy.png",
                                     "https://i.postimg.cc/D09KQz1S/Candy-2.png",
                                     "https://i.postimg.cc/8PNrFvKS/pokeball-png-45331.png",
-                                    "https://i.postimg.cc/zG1rVVJM/Cookies.png",
+                                    "https://i.postimg.cc/3Jd7h1Rn/200.gif",
                                     "https://i.postimg.cc/ry0s4RkF/Santa.png",
                                     "https://i.postimg.cc/QNf29yyZ/Bag.png",
                                     "https://i.postimg.cc/5NjZwShY/Bells.png",
